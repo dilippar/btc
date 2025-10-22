@@ -21,4 +21,3 @@ w.tx_count,
 from WHALES w
 
 order by total_sent desc
-
